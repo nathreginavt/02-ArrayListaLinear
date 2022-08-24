@@ -16,7 +16,7 @@ const int MAX = 2;;
 int lista[MAX]{};
 int nElementos = 0;
 int busca;
-int pos = -1;
+int pos;
 
 
 int main()
